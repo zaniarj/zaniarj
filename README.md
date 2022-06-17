@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zaniar
+- 👀 I’m interested in Python, Data science, Image and video analysis, 
+- 🌱 I’m currently learning any thing that makes me better
+- 📫 How to reach me on zanyar.j@gmail.com
